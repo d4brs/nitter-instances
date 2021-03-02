@@ -6,6 +6,12 @@ repo: nitter-instances
 sites:
   - name: Official
     url: https://nitter.net
+  - name: 42l
+    url: https://nitter.42l.fr
+  - name: PussTheCat
+    url: https://nitter.pussthecat.org
+  - name: NixNet
+    url: https://nitter.nixnet.services
   - name: Action Sack
     url: https://nitter.actionsack.com
 
@@ -14,7 +20,7 @@ status-website:
   # cname: xnaas.github.io
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /nitter-instances
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/zedeus/nitter/master/public/favicon-32x32.png
   name: Nitter Instances
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This status page monitors Nitter instances for uptime.
@@ -23,6 +29,6 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
+  theme: dark
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
