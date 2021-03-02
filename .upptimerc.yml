@@ -4,23 +4,77 @@ repo: nitter-instances
 
 # Add your sites here
 sites:
-  - name: Official
+  - name: nitter.net
     url: https://nitter.net
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
-  - name: 42l
+  - name: nitter.42l.fr
     url: https://nitter.42l.fr
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fr.png
-  - name: PussTheCat
+  - name: nitter.pussthecat.org
     url: https://nitter.pussthecat.org
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
-  - name: NixNet
+  - name: nitter.nixnet.services
     url: https://nitter.nixnet.services
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
-  - name: Action Sack
+  - name: nitter.mastodont.cat
+    url: https://nitter.mastodont.cat
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: nitter.tedomum.net
+    url: https://nitter.tedomum.net
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fr.png
+  - name: nitter.fdn.fr
+    url: https://nitter.fdn.fr
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fr.png
+  - name: nitter.1d4.us
+    url: https://nitter.1d4.us
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: nitter.kavin.rocks
+    url: https://nitter.kavin.rocks
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/in.png
+  - name: tweet.lambda.dance
+    url: https://tweet.lambda.dance
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: nitter.cc
+    url: https://nitter.cc
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/rs.png
+  - name: nitter.weaponizedhumiliation.com
+    url: https://nitter.weaponizedhumiliation.com/
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: nitter.vxempire.xyz
+    url: https://nitter.vxempire.xyz
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/es.png
+  - name: nitter.unixfox.eu
+    url: https://nitter.unixfox.eu
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/nl.png
+  - name: nitter.domain.glass
+    url: https://nitter.domain.glass
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: nitter.himiko.cloud
+    url: https://nitter.himiko.cloud
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/bg.png
+  - name: nitter.eu
+    url: https://nitter.eu
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fi.png
+  - name: nitter.ethibox.fr
+    url: https://nitter.ethibox.fr
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fr.png
+  - name: nitter.namazso.eu
+    url: https://nitter.namazso.eu
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: nitter.mailstation.de
+    url: https://nitter.mailstation.de
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: nitter.actionsack.com
     url: https://nitter.actionsack.com
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
     assignees:
       - xnaas
+  - name: nitter.cattube.org
+    url: https://nitter.cattube.org
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: nitter.dark.fail
+    url: https://nitter.dark.fail
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
