@@ -14,6 +14,9 @@ sites:
     url: https://nitter.nixnet.services
   - name: Action Sack
     url: https://nitter.actionsack.com
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+    assignees:
+      - xnaas
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
