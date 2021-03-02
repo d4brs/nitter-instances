@@ -5,18 +5,18 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png",
     "slug": "nitter-net",
     "status": "down",
-    "uptime": "3.06%",
-    "uptimeDay": "3.06%",
-    "uptimeWeek": "3.06%",
-    "uptimeMonth": "3.06%",
-    "uptimeYear": "3.06%",
+    "uptime": "0.07%",
+    "uptimeDay": "0.07%",
+    "uptimeWeek": "0.07%",
+    "uptimeMonth": "0.07%",
+    "uptimeYear": "0.07%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-03-02": 1
+      "2021-03-02": 29
     }
   },
   {
@@ -78,18 +78,20 @@
     "url": "https://nitter.mastodont.cat",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png",
     "slug": "nitter-mastodont-cat",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "98.85%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "98.85%",
+    "uptimeMonth": "98.85%",
+    "uptimeYear": "98.85%",
     "time": 1003,
     "timeDay": 1003,
     "timeWeek": 1003,
     "timeMonth": 1003,
     "timeYear": 1003,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-02": 0
+    }
   },
   {
     "name": "nitter.tedomum.net",
