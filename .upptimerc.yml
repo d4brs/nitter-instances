@@ -6,7 +6,7 @@ repo: nitter-instances
 sites:
   - name: Official
     url: https://nitter.net
-    icon: https://raw.githubusercontent.com/zedeus/nitter/master/public/favicon-16x16.png
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
   - name: 42l
     url: https://nitter.42l.fr
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fr.png
