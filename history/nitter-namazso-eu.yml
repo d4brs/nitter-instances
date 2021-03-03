@@ -1,7 +1,7 @@
 url: https://nitter.namazso.eu
-status: up
-code: 200
-responseTime: 557
-lastUpdated: 2021-03-03T17:48:29.772Z
+status: down
+code: 502
+responseTime: 566
+lastUpdated: 2021-03-03T18:00:59.322Z
 startTime: Tue Mar 02 2021 18:58:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
