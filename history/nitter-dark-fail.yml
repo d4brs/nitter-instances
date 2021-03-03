@@ -1,7 +1,7 @@
 url: https://nitter.dark.fail
-status: up
-code: 200
-responseTime: 703
-lastUpdated: 2021-03-03T06:00:51.757Z
+status: down
+code: 502
+responseTime: 17269
+lastUpdated: 2021-03-03T07:53:40.695Z
 startTime: Tue Mar 02 2021 18:58:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
