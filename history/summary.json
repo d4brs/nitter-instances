@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-03-04": 1181,
+      "2021-03-04": 1189,
       "2021-03-03": 1440,
       "2021-03-02": 302
     }
@@ -336,19 +336,19 @@
     "url": "https://nitter.namazso.eu",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png",
     "slug": "nitter-namazso-eu",
-    "status": "up",
-    "uptime": "60.32%",
-    "uptimeDay": "50.10%",
-    "uptimeWeek": "60.32%",
-    "uptimeMonth": "60.32%",
-    "uptimeYear": "60.32%",
-    "time": 573,
-    "timeDay": 575,
-    "timeWeek": 573,
-    "timeMonth": 573,
-    "timeYear": 573,
+    "status": "down",
+    "uptime": "60.40%",
+    "uptimeDay": "50.54%",
+    "uptimeWeek": "60.40%",
+    "uptimeMonth": "60.40%",
+    "uptimeYear": "60.40%",
+    "time": 574,
+    "timeDay": 574,
+    "timeWeek": 574,
+    "timeMonth": 574,
+    "timeYear": 574,
     "dailyMinutesDown": {
-      "2021-03-04": 613,
+      "2021-03-04": 614,
       "2021-03-03": 546
     }
   },
