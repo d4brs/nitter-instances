@@ -75,6 +75,9 @@ sites:
   - name: nitter.dark.fail
     url: https://nitter.dark.fail
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: birdsite.xanny.family
+    url: https://birdsite.xanny.family
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/gb.png
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -83,8 +86,8 @@ status-website:
   baseUrl: /nitter-instances
   logoUrl: https://raw.githubusercontent.com/zedeus/nitter/master/public/favicon-32x32.png
   name: Nitter Instances
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This status page monitors Nitter instances for uptime.
+  introTitle: "Nitter Instances Uptime"
+  introMessage: This status page monitors [Nitter instances](https://github.com/zedeus/nitter/wiki/Instances) for uptime.
   navbar:
     - title: Status
       href: /nitter-instances
