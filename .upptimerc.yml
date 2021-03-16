@@ -37,9 +37,6 @@ sites:
   - name: nitter.cc
     url: https://nitter.cc
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/rs.png
-  - name: nitter.weaponizedhumiliation.com
-    url: https://nitter.weaponizedhumiliation.com/
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
   - name: nitter.vxempire.xyz
     url: https://nitter.vxempire.xyz
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/es.png
