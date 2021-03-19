@@ -75,6 +75,9 @@ sites:
   - name: birdsite.xanny.family
     url: https://birdsite.xanny.family
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/gb.png
+  - name: nitter.40two.app
+    url: https://nitter.40two.app
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/nl.png
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
