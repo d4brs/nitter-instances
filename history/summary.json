@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-03-23": 899,
+      "2021-03-23": 930,
       "2021-03-22": 1440,
       "2021-03-21": 1440,
       "2021-03-20": 1440,
@@ -53,7 +53,7 @@
     "uptimeYear": "100.00%",
     "time": 765,
     "timeDay": 469,
-    "timeWeek": 767,
+    "timeWeek": 779,
     "timeMonth": 765,
     "timeYear": 765,
     "dailyMinutesDown": {}
@@ -71,7 +71,7 @@
     "uptimeYear": "99.93%",
     "time": 741,
     "timeDay": 499,
-    "timeWeek": 493,
+    "timeWeek": 503,
     "timeMonth": 741,
     "timeYear": 741,
     "dailyMinutesDown": {
@@ -91,7 +91,7 @@
     "uptimeYear": "100.00%",
     "time": 1614,
     "timeDay": 684,
-    "timeWeek": 1642,
+    "timeWeek": 1748,
     "timeMonth": 1614,
     "timeYear": 1614,
     "dailyMinutesDown": {}
@@ -109,7 +109,7 @@
     "uptimeYear": "99.81%",
     "time": 804,
     "timeDay": 806,
-    "timeWeek": 765,
+    "timeWeek": 776,
     "timeMonth": 804,
     "timeYear": 804,
     "dailyMinutesDown": {
@@ -129,7 +129,7 @@
     "uptimeYear": "100.00%",
     "time": 1466,
     "timeDay": 1159,
-    "timeWeek": 732,
+    "timeWeek": 748,
     "timeMonth": 1466,
     "timeYear": 1466,
     "dailyMinutesDown": {}
@@ -147,7 +147,7 @@
     "uptimeYear": "98.68%",
     "time": 1165,
     "timeDay": 458,
-    "timeWeek": 547,
+    "timeWeek": 570,
     "timeMonth": 1165,
     "timeYear": 1165,
     "dailyMinutesDown": {
@@ -160,7 +160,7 @@
     "url": "https://nitter.1d4.us",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png",
     "slug": "nitter-1d4-us",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -168,7 +168,7 @@
     "uptimeYear": "99.63%",
     "time": 375,
     "timeDay": 160,
-    "timeWeek": 698,
+    "timeWeek": 734,
     "timeMonth": 375,
     "timeYear": 375,
     "dailyMinutesDown": {
@@ -188,7 +188,7 @@
     "uptimeYear": "99.49%",
     "time": 1220,
     "timeDay": 1127,
-    "timeWeek": 1120,
+    "timeWeek": 1109,
     "timeMonth": 1220,
     "timeYear": 1220,
     "dailyMinutesDown": {
@@ -208,7 +208,7 @@
     "uptimeYear": "100.00%",
     "time": 2045,
     "timeDay": 183,
-    "timeWeek": 619,
+    "timeWeek": 668,
     "timeMonth": 2045,
     "timeYear": 2045,
     "dailyMinutesDown": {}
@@ -226,7 +226,7 @@
     "uptimeYear": "100.00%",
     "time": 8651,
     "timeDay": 167,
-    "timeWeek": 12633,
+    "timeWeek": 13022,
     "timeMonth": 8651,
     "timeYear": 8651,
     "dailyMinutesDown": {}
@@ -244,7 +244,7 @@
     "uptimeYear": "99.66%",
     "time": 1207,
     "timeDay": 537,
-    "timeWeek": 709,
+    "timeWeek": 728,
     "timeMonth": 1207,
     "timeYear": 1207,
     "dailyMinutesDown": {
@@ -266,7 +266,7 @@
     "uptimeYear": "100.00%",
     "time": 1583,
     "timeDay": 486,
-    "timeWeek": 590,
+    "timeWeek": 599,
     "timeMonth": 1583,
     "timeYear": 1583,
     "dailyMinutesDown": {}
@@ -284,7 +284,7 @@
     "uptimeYear": "100.00%",
     "time": 278,
     "timeDay": 293,
-    "timeWeek": 291,
+    "timeWeek": 292,
     "timeMonth": 278,
     "timeYear": 278,
     "dailyMinutesDown": {}
@@ -302,7 +302,7 @@
     "uptimeYear": "100.00%",
     "time": 635,
     "timeDay": 454,
-    "timeWeek": 638,
+    "timeWeek": 654,
     "timeMonth": 635,
     "timeYear": 635,
     "dailyMinutesDown": {}
@@ -320,7 +320,7 @@
     "uptimeYear": "100.00%",
     "time": 588,
     "timeDay": 498,
-    "timeWeek": 586,
+    "timeWeek": 600,
     "timeMonth": 588,
     "timeYear": 588,
     "dailyMinutesDown": {}
@@ -338,7 +338,7 @@
     "uptimeYear": "100.00%",
     "time": 1039,
     "timeDay": 698,
-    "timeWeek": 1379,
+    "timeWeek": 1481,
     "timeMonth": 1039,
     "timeYear": 1039,
     "dailyMinutesDown": {}
@@ -349,14 +349,14 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png",
     "slug": "nitter-namazso-eu",
     "status": "up",
-    "uptime": "46.86%",
+    "uptime": "46.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "46.86%",
-    "uptimeYear": "46.86%",
+    "uptimeMonth": "46.91%",
+    "uptimeYear": "46.91%",
     "time": 558,
     "timeDay": 406,
-    "timeWeek": 488,
+    "timeWeek": 490,
     "timeMonth": 558,
     "timeYear": 558,
     "dailyMinutesDown": {
@@ -388,7 +388,7 @@
     "uptimeYear": "100.00%",
     "time": 805,
     "timeDay": 668,
-    "timeWeek": 784,
+    "timeWeek": 795,
     "timeMonth": 805,
     "timeYear": 805,
     "dailyMinutesDown": {}
@@ -406,7 +406,7 @@
     "uptimeYear": "100.00%",
     "time": 276,
     "timeDay": 319,
-    "timeWeek": 277,
+    "timeWeek": 279,
     "timeMonth": 276,
     "timeYear": 276,
     "dailyMinutesDown": {}
@@ -424,7 +424,7 @@
     "uptimeYear": "100.00%",
     "time": 719,
     "timeDay": 630,
-    "timeWeek": 671,
+    "timeWeek": 693,
     "timeMonth": 719,
     "timeYear": 719,
     "dailyMinutesDown": {}
@@ -442,7 +442,7 @@
     "uptimeYear": "99.82%",
     "time": 1296,
     "timeDay": 926,
-    "timeWeek": 843,
+    "timeWeek": 811,
     "timeMonth": 1296,
     "timeYear": 1296,
     "dailyMinutesDown": {
@@ -463,7 +463,7 @@
     "uptimeYear": "100.00%",
     "time": 435,
     "timeDay": 275,
-    "timeWeek": 437,
+    "timeWeek": 449,
     "timeMonth": 435,
     "timeYear": 435,
     "dailyMinutesDown": {}
