@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-04-16": 528,
+      "2021-04-16": 952,
       "2021-04-15": 1440,
       "2021-04-14": 1440,
       "2021-04-13": 1440,
@@ -78,7 +78,7 @@
     "time": 802,
     "timeDay": 874,
     "timeWeek": 826,
-    "timeMonth": 820,
+    "timeMonth": 824,
     "timeYear": 802,
     "dailyMinutesDown": {}
   },
@@ -96,7 +96,7 @@
     "time": 630,
     "timeDay": 699,
     "timeWeek": 564,
-    "timeMonth": 536,
+    "timeMonth": 539,
     "timeYear": 630,
     "dailyMinutesDown": {
       "2021-03-03": 21
@@ -116,7 +116,7 @@
     "time": 1595,
     "timeDay": 796,
     "timeWeek": 1390,
-    "timeMonth": 1595,
+    "timeMonth": 1623,
     "timeYear": 1595,
     "dailyMinutesDown": {}
   },
@@ -134,7 +134,7 @@
     "time": 860,
     "timeDay": 0,
     "timeWeek": 745,
-    "timeMonth": 881,
+    "timeMonth": 889,
     "timeYear": 860,
     "dailyMinutesDown": {
       "2021-03-02": 59
@@ -154,7 +154,7 @@
     "time": 1908,
     "timeDay": 690,
     "timeWeek": 1161,
-    "timeMonth": 1921,
+    "timeMonth": 1959,
     "timeYear": 1908,
     "dailyMinutesDown": {}
   },
@@ -164,15 +164,15 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fr.png",
     "slug": "nitter-fdn-fr",
     "status": "up",
-    "uptime": "99.38%",
+    "uptime": "99.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.38%",
+    "uptimeYear": "99.39%",
     "time": 952,
     "timeDay": 742,
     "timeWeek": 593,
-    "timeMonth": 650,
+    "timeMonth": 658,
     "timeYear": 952,
     "dailyMinutesDown": {
       "2021-03-09": 287,
@@ -193,7 +193,7 @@
     "time": 361,
     "timeDay": 462,
     "timeWeek": 356,
-    "timeMonth": 464,
+    "timeMonth": 471,
     "timeYear": 361,
     "dailyMinutesDown": {
       "2021-03-06": 111
@@ -204,17 +204,17 @@
     "url": "https://nitter.kavin.rocks",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/in.png",
     "slug": "nitter-kavin-rocks",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
-    "time": 1204,
-    "timeDay": 1082,
-    "timeWeek": 1254,
-    "timeMonth": 1170,
-    "timeYear": 1204,
+    "time": 1202,
+    "timeDay": 1097,
+    "timeWeek": 1236,
+    "timeMonth": 1167,
+    "timeYear": 1202,
     "dailyMinutesDown": {
       "2021-03-05": 152
     }
@@ -233,7 +233,7 @@
     "time": 1414,
     "timeDay": 410,
     "timeWeek": 561,
-    "timeMonth": 739,
+    "timeMonth": 755,
     "timeYear": 1414,
     "dailyMinutesDown": {}
   },
@@ -251,7 +251,7 @@
     "time": 5893,
     "timeDay": 668,
     "timeWeek": 617,
-    "timeMonth": 7398,
+    "timeMonth": 7525,
     "timeYear": 5893,
     "dailyMinutesDown": {}
   },
@@ -269,7 +269,7 @@
     "time": 1016,
     "timeDay": 811,
     "timeWeek": 729,
-    "timeMonth": 789,
+    "timeMonth": 796,
     "timeYear": 1016,
     "dailyMinutesDown": {
       "2021-03-11": 46,
@@ -291,7 +291,7 @@
     "time": 1323,
     "timeDay": 660,
     "timeWeek": 1438,
-    "timeMonth": 1032,
+    "timeMonth": 1043,
     "timeYear": 1323,
     "dailyMinutesDown": {}
   },
@@ -309,7 +309,7 @@
     "time": 285,
     "timeDay": 296,
     "timeWeek": 326,
-    "timeMonth": 292,
+    "timeMonth": 293,
     "timeYear": 285,
     "dailyMinutesDown": {}
   },
@@ -327,7 +327,7 @@
     "time": 1268,
     "timeDay": 624,
     "timeWeek": 3138,
-    "timeMonth": 1585,
+    "timeMonth": 1615,
     "timeYear": 1268,
     "dailyMinutesDown": {}
   },
@@ -345,7 +345,7 @@
     "time": 680,
     "timeDay": 723,
     "timeWeek": 666,
-    "timeMonth": 723,
+    "timeMonth": 731,
     "timeYear": 680,
     "dailyMinutesDown": {}
   },
@@ -363,7 +363,7 @@
     "time": 1012,
     "timeDay": 1174,
     "timeWeek": 919,
-    "timeMonth": 1086,
+    "timeMonth": 1102,
     "timeYear": 1012,
     "dailyMinutesDown": {}
   },
@@ -373,15 +373,15 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png",
     "slug": "nitter-namazso-eu",
     "status": "up",
-    "uptime": "75.16%",
+    "uptime": "75.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "75.16%",
+    "uptimeYear": "75.33%",
     "time": 549,
     "timeDay": 567,
     "timeWeek": 505,
-    "timeMonth": 511,
+    "timeMonth": 513,
     "timeYear": 549,
     "dailyMinutesDown": {
       "2021-03-15": 987,
@@ -413,7 +413,7 @@
     "time": 860,
     "timeDay": 901,
     "timeWeek": 868,
-    "timeMonth": 883,
+    "timeMonth": 888,
     "timeYear": 860,
     "dailyMinutesDown": {}
   },
@@ -431,7 +431,7 @@
     "time": 503,
     "timeDay": 482,
     "timeWeek": 513,
-    "timeMonth": 616,
+    "timeMonth": 626,
     "timeYear": 503,
     "dailyMinutesDown": {}
   },
@@ -449,7 +449,7 @@
     "time": 734,
     "timeDay": 781,
     "timeWeek": 715,
-    "timeMonth": 730,
+    "timeMonth": 737,
     "timeYear": 734,
     "dailyMinutesDown": {}
   },
@@ -467,7 +467,7 @@
     "time": 1108,
     "timeDay": 2155,
     "timeWeek": 1047,
-    "timeMonth": 866,
+    "timeMonth": 858,
     "timeYear": 1108,
     "dailyMinutesDown": {
       "2021-03-04": 17,
@@ -488,7 +488,7 @@
     "time": 491,
     "timeDay": 651,
     "timeWeek": 531,
-    "timeMonth": 502,
+    "timeMonth": 507,
     "timeYear": 491,
     "dailyMinutesDown": {}
   },
@@ -522,7 +522,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 549,
-    "timeDay": 517,
+    "timeDay": 521,
     "timeWeek": 500,
     "timeMonth": 549,
     "timeYear": 549,
