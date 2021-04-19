@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-04-19": 708,
+      "2021-04-19": 716,
       "2021-04-18": 1440,
       "2021-04-17": 1440,
       "2021-04-16": 1440,
@@ -518,17 +518,17 @@
     "url": "https://nitter.skrep.in",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png",
     "slug": "nitter-skrep-in",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 553,
-    "timeDay": 543,
-    "timeWeek": 543,
-    "timeMonth": 553,
-    "timeYear": 553,
+    "time": 554,
+    "timeDay": 551,
+    "timeWeek": 545,
+    "timeMonth": 554,
+    "timeYear": 554,
     "dailyMinutesDown": {}
   }
 ]
