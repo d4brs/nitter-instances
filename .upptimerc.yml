@@ -81,6 +81,12 @@ sites:
   - name: nitter.skrep.in
     url: https://nitter.skrep.in
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: nitter.hu
+    url: https://nitter.hu
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/hu.png
+  - name: nitter.database.red
+    url: https://nitter.database.red
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
