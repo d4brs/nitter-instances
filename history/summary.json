@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-04-23": 72,
+      "2021-04-23": 75,
       "2021-04-22": 1440,
       "2021-04-21": 1440,
       "2021-04-20": 1440,
@@ -325,7 +325,7 @@
     "url": "https://nitter.himiko.cloud",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/bg.png",
     "slug": "nitter-himiko-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
