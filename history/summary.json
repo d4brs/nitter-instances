@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-04-25": 77,
+      "2021-04-25": 154,
       "2021-04-24": 1440,
       "2021-04-23": 1440,
       "2021-04-22": 1440,
@@ -87,7 +87,7 @@
     "time": 802,
     "timeDay": 902,
     "timeWeek": 778,
-    "timeMonth": 824,
+    "timeMonth": 835,
     "timeYear": 802,
     "dailyMinutesDown": {}
   },
@@ -128,26 +128,6 @@
     "timeMonth": 1676,
     "timeYear": 1695,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "nitter.mastodont.cat",
-    "url": "https://nitter.mastodont.cat",
-    "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png",
-    "slug": "nitter-mastodont-cat",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
-    "time": 860,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 944,
-    "timeYear": 860,
-    "dailyMinutesDown": {
-      "2021-03-02": 59
-    }
   },
   {
     "name": "nitter.tedomum.net",
@@ -382,11 +362,11 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png",
     "slug": "nitter-namazso-eu",
     "status": "up",
-    "uptime": "79.21%",
+    "uptime": "79.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "79.21%",
+    "uptimeYear": "79.23%",
     "time": 543,
     "timeDay": 564,
     "timeWeek": 509,
@@ -571,6 +551,24 @@
     "timeWeek": 350,
     "timeMonth": 350,
     "timeYear": 350,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "nitter.exonip.de",
+    "url": "https://nitter.exonip.de",
+    "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png",
+    "slug": "nitter-exonip-de",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
     "dailyMinutesDown": {}
   }
 ]
