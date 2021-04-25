@@ -16,9 +16,6 @@ sites:
   - name: nitter.nixnet.services
     url: https://nitter.nixnet.services
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
-  - name: nitter.mastodont.cat
-    url: https://nitter.mastodont.cat
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
   - name: nitter.tedomum.net
     url: https://nitter.tedomum.net
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fr.png
