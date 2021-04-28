@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-04-28": 932,
+      "2021-04-28": 957,
       "2021-04-27": 1440,
       "2021-04-26": 1440,
       "2021-04-25": 1440,
@@ -108,7 +108,7 @@
     "time": 603,
     "timeDay": 515,
     "timeWeek": 509,
-    "timeMonth": 526,
+    "timeMonth": 525,
     "timeYear": 603,
     "dailyMinutesDown": {
       "2021-03-03": 21
@@ -310,7 +310,7 @@
     "url": "https://nitter.himiko.cloud",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/bg.png",
     "slug": "nitter-himiko-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
