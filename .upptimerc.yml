@@ -81,6 +81,12 @@ sites:
   - name: nitter.exonip.de
     url: https://nitter.exonip.de
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: twitr.gq
+    url: https://twitr.gq
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fi.png
+  - name: nitter.koyu.space
+    url: https://nitter.koyu.space
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
