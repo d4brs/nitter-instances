@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-03": 72,
+      "2021-05-03": 328,
       "2021-05-02": 1440,
       "2021-05-01": 1440,
       "2021-04-30": 1440,
@@ -315,9 +315,9 @@
     "url": "https://nitter.himiko.cloud",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/bg.png",
     "slug": "nitter-himiko-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -326,7 +326,9 @@
     "timeWeek": 3829,
     "timeMonth": 2452,
     "timeYear": 1676,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-03": 0
+    }
   },
   {
     "name": "nitter.eu",
@@ -358,7 +360,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 989,
-    "timeDay": 1021,
+    "timeDay": 1089,
     "timeWeek": 947,
     "timeMonth": 907,
     "timeYear": 989,
@@ -370,11 +372,11 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png",
     "slug": "nitter-namazso-eu",
     "status": "up",
-    "uptime": "81.93%",
+    "uptime": "81.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "81.93%",
+    "uptimeYear": "81.98%",
     "time": 554,
     "timeDay": 589,
     "timeWeek": 785,
@@ -451,27 +453,6 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "nitter.dark.fail",
-    "url": "https://nitter.dark.fail",
-    "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png",
-    "slug": "nitter-dark-fail",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.94%",
-    "time": 1034,
-    "timeDay": 0,
-    "timeWeek": 685,
-    "timeMonth": 809,
-    "timeYear": 1034,
-    "dailyMinutesDown": {
-      "2021-03-04": 17,
-      "2021-03-03": 37
-    }
-  },
-  {
     "name": "birdsite.xanny.family",
     "url": "https://birdsite.xanny.family",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/gb.png",
@@ -523,24 +504,6 @@
     "timeWeek": 639,
     "timeMonth": 583,
     "timeYear": 595,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "nitter.hu",
-    "url": "https://nitter.hu",
-    "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/hu.png",
-    "slug": "nitter-hu",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 424,
-    "timeDay": 129,
-    "timeWeek": 332,
-    "timeMonth": 424,
-    "timeYear": 424,
     "dailyMinutesDown": {}
   },
   {
