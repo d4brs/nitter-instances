@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-03": 328,
+      "2021-05-03": 356,
       "2021-05-02": 1440,
       "2021-05-01": 1440,
       "2021-04-30": 1440,
@@ -316,18 +316,18 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/bg.png",
     "slug": "nitter-himiko-cloud",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "98.06%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.97%",
     "time": 1676,
     "timeDay": 826,
     "timeWeek": 3829,
     "timeMonth": 2452,
     "timeYear": 1676,
     "dailyMinutesDown": {
-      "2021-05-03": 0
+      "2021-05-03": 28
     }
   },
   {
@@ -493,18 +493,20 @@
     "url": "https://nitter.skrep.in",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png",
     "slug": "nitter-skrep-in",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 595,
-    "timeDay": 594,
-    "timeWeek": 639,
+    "time": 594,
+    "timeDay": 586,
+    "timeWeek": 634,
     "timeMonth": 583,
-    "timeYear": 595,
-    "dailyMinutesDown": {}
+    "timeYear": 594,
+    "dailyMinutesDown": {
+      "2021-05-03": 0
+    }
   },
   {
     "name": "nitter.database.red",
