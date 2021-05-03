@@ -318,7 +318,7 @@
     "slug": "nitter-himiko-cloud",
     "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "60.04%",
+    "uptimeDay": "60.02%",
     "uptimeWeek": "94.29%",
     "uptimeMonth": "98.69%",
     "uptimeYear": "99.35%",
@@ -328,7 +328,7 @@
     "timeMonth": 2452,
     "timeYear": 1676,
     "dailyMinutesDown": {
-      "2021-05-03": 575
+      "2021-05-03": 576
     }
   },
   {
