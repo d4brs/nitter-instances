@@ -43,9 +43,6 @@ sites:
   - name: nitter.domain.glass
     url: https://nitter.domain.glass
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
-  - name: nitter.himiko.cloud
-    url: https://nitter.himiko.cloud
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/bg.png
   - name: nitter.eu
     url: https://nitter.eu
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fi.png
