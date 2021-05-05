@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-05": 1227,
+      "2021-05-05": 1242,
       "2021-05-04": 1440,
       "2021-05-03": 1440,
       "2021-05-02": 1440,
@@ -542,19 +542,19 @@
     "url": "https://twitr.gq",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fi.png",
     "slug": "twitr-gq",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 374,
-    "timeDay": 336,
-    "timeWeek": 374,
-    "timeMonth": 374,
-    "timeYear": 374,
+    "status": "up",
+    "uptime": "99.51%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "99.51%",
+    "time": 368,
+    "timeDay": 335,
+    "timeWeek": 368,
+    "timeMonth": 368,
+    "timeYear": 368,
     "dailyMinutesDown": {
-      "2021-05-05": 1
+      "2021-05-05": 16
     }
   },
   {
