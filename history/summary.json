@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-20": 637,
+      "2021-05-20": 747,
       "2021-05-19": 1440,
       "2021-05-18": 1440,
       "2021-05-17": 1440,
@@ -158,11 +158,11 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png",
     "slug": "nitter-nixnet-services",
     "status": "up",
-    "uptime": "99.25%",
+    "uptime": "99.26%",
     "uptimeDay": "98.05%",
     "uptimeWeek": "92.47%",
     "uptimeMonth": "98.07%",
-    "uptimeYear": "99.25%",
+    "uptimeYear": "99.26%",
     "time": 1647,
     "timeDay": 843,
     "timeWeek": 2088,
@@ -405,11 +405,11 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png",
     "slug": "nitter-namazso-eu",
     "status": "up",
-    "uptime": "85.90%",
+    "uptime": "85.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.70%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "85.90%",
+    "uptimeYear": "85.91%",
     "time": 544,
     "timeDay": 583,
     "timeWeek": 470,
@@ -437,9 +437,9 @@
     "url": "https://nitter.mailstation.de",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png",
     "slug": "nitter-mailstation-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -448,7 +448,9 @@
     "timeWeek": 795,
     "timeMonth": 830,
     "timeYear": 865,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-20": 0
+    }
   },
   {
     "name": "nitter.actionsack.com",
@@ -541,7 +543,7 @@
     "time": 605,
     "timeDay": 786,
     "timeWeek": 550,
-    "timeMonth": 624,
+    "timeMonth": 627,
     "timeYear": 605,
     "dailyMinutesDown": {
       "2021-05-19": 24,
