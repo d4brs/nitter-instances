@@ -55,8 +55,6 @@ sites:
   - name: nitter.actionsack.com
     url: https://nitter.actionsack.com
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
-    assignees:
-      - xnaas
   - name: nitter.cattube.org
     url: https://nitter.cattube.org
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
@@ -81,6 +79,12 @@ sites:
   - name: nitter.koyu.space
     url: https://nitter.koyu.space
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: nitter.jae.fi
+    url: https://nitter.jae.fi
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fi.png
+  - name: nitter.moomoo.me
+    url: https://nitter.moomoo.me
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
