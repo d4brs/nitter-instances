@@ -1,7 +1,7 @@
 url: https://nitter.unixfox.eu
-status: up
-code: 200
-responseTime: 89
-lastUpdated: 2021-05-30T05:25:43.176Z
+status: down
+code: 504
+responseTime: 5529
+lastUpdated: 2021-05-30T06:55:38.085Z
 startTime: Tue Mar 02 2021 18:58:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
