@@ -16,9 +16,6 @@ sites:
   - name: nitter.nixnet.services
     url: https://nitter.nixnet.services
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
-  - name: nitter.tedomum.net
-    url: https://nitter.tedomum.net
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fr.png
   - name: nitter.fdn.fr
     url: https://nitter.fdn.fr
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fr.png
@@ -28,9 +25,6 @@ sites:
   - name: nitter.kavin.rocks
     url: https://nitter.kavin.rocks
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/in.png
-  - name: nitter.cc
-    url: https://nitter.cc
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/rs.png
   - name: nitter.vxempire.xyz
     url: https://nitter.vxempire.xyz
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/es.png
@@ -79,12 +73,15 @@ sites:
   - name: nitter.koyu.space
     url: https://nitter.koyu.space
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
-  - name: nitter.jae.fi
-    url: https://nitter.jae.fi
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fi.png
   - name: nitter.moomoo.me
     url: https://nitter.moomoo.me
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: bird.trom.tf
+    url: https://bird.trom.tf
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: nitter.mha.fi
+    url: https://nitter.mha.fi
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
