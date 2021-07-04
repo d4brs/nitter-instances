@@ -150,7 +150,7 @@
     "slug": "nitter-42l-fr",
     "status": "down",
     "uptime": "80.13%",
-    "uptimeDay": "3.01%",
+    "uptimeDay": "3.05%",
     "uptimeWeek": "1.09%",
     "uptimeMonth": "31.76%",
     "uptimeYear": "80.13%",
@@ -267,7 +267,7 @@
     "uptime": "98.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.54%",
+    "uptimeMonth": "98.55%",
     "uptimeYear": "98.07%",
     "time": 740,
     "timeDay": 510,
@@ -654,11 +654,11 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png",
     "slug": "nitter-skrep-in",
     "status": "down",
-    "uptime": "97.98%",
-    "uptimeDay": "87.90%",
+    "uptime": "97.96%",
+    "uptimeDay": "87.92%",
     "uptimeWeek": "88.88%",
-    "uptimeMonth": "93.57%",
-    "uptimeYear": "97.98%",
+    "uptimeMonth": "93.51%",
+    "uptimeYear": "97.96%",
     "time": 579,
     "timeDay": 565,
     "timeWeek": 570,
@@ -684,7 +684,8 @@
       "2021-06-18": 219,
       "2021-06-17": 81,
       "2021-06-16": 29,
-      "2021-06-15": 183
+      "2021-06-15": 183,
+      "2021-06-14": 29
     }
   },
   {
